@@ -15,6 +15,14 @@ open to relocating.
   eruptions. It replaced the group's legacy Fortran code, fitted data sets the old code
   could not, and the group adopted it. I also checked the mathematics of the group's
   simulation by re-deriving it independently. We shared the code on GitHub.
+<p>
+  <a href="https://github.com/jani-hilt/satellite-pass-planner"><img
+    src="images/satellite_pass_planner_preview.png" width="48%"
+    alt="satellite-pass-planner: sky plot of a satellite pass over Helsinki"></a>
+  <img src="images/cosmosim_preview.png" width="48%"
+    alt="CosmoSim: slice of the cosmological simulation at the present day">
+</p>
+
 - **Project:** [satellite-pass-planner](https://github.com/jani-hilt/satellite-pass-planner)
   predicts when a satellite is in contact with a ground station. The code was written
   with an AI coding agent. I set the goals and checked the predictions by hand against
