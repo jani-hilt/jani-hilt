@@ -14,7 +14,7 @@ open to relocating.
   acceleration by solar shock waves to measurements of high-energy particles from solar
   eruptions. It replaced the group's legacy Fortran code, fitted data sets the old code
   could not, and the group adopted it. I also checked the mathematics of the group's
-  simulation by re-deriving it independently. We shared the code through Git and GitHub.
+  simulation by re-deriving it independently. We shared the code on GitHub.
 - **Project:** [satellite-pass-planner](https://github.com/jani-hilt/satellite-pass-planner)
   predicts when a satellite is in contact with a ground station. The code was written
   with an AI coding agent. I set the goals and checked the predictions by hand against
